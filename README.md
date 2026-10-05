@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo_full.png" alt="MatchMyStage Logo" width="460" />
+  <img src="assets/logo_full_original.png" alt="MatchMyStage Logo" width="460" />
 </p>
 
 <p align="center">
@@ -224,7 +224,7 @@ MatchMyStage replaces legacy LaTeX engines with **Typst**:
 <table>
   <tr>
     <td width="140" align="center" valign="top">
-      <img src="assets/logo_simple.png" width="110" alt="Louis Le Forestier" style="border-radius: 50%;" />
+      <img src="assets/logo_simple_round.png" width="110" alt="Louis Le Forestier" style="border-radius: 50%;" />
     </td>
     <td valign="top">
       <h3>Louis Le Forestier</h3>
